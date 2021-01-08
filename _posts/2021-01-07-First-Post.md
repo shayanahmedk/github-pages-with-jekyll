@@ -1,3 +1,8 @@
+---
+title: "First Post"
+date: 2021-01-08
+---
+
 Hello!!
 I have made this blog using Jekyll and this is hosted on GitHub Pages.
 This is my first post on my blog.
